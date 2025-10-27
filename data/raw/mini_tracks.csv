@@ -1,0 +1,6 @@
+track_name,artist_name,year,genre,danceability,energy,tempo,valence,loudness,duration_ms
+Song A,Artist X,1985,rock,0.55,0.72,110,0.40,-7.0,210000
+Song B,Artist Y,1995,pop,0.70,0.65,98,0.60,-6.5,195000
+Song C,Artist Z,2005,hip-hop,0.80,0.75,92,0.55,-5.0,230000
+Song D,Artist Q,2015,edm,0.60,0.85,128,0.65,-4.5,180000
+Song E,Artist W,2020,indie,0.65,0.55,105,0.50,-8.0,240000
